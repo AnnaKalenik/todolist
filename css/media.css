@@ -1,0 +1,45 @@
+@media (max-width: 1024px) {
+
+    body {
+        font-size: 14px;
+        background-position-y: 10%;
+    }
+    
+    .todolist {
+        width: 280px;
+        height: 280px;
+        margin-top: 17%;
+    }
+    
+    .todolist-title {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .todolist-form input {
+        width: 200px;
+        margin-bottom: 10px;
+    }
+
+    .todolist-form .delete {
+        font-size: 14px;
+        padding: 5px 15px;
+        margin-bottom: 10px;
+    }
+    
+    .todolist-list {
+        max-width: 280px;
+    }
+
+    .todolist-tasks {
+        padding: 0 20px;
+    }
+
+    .checkbox-task {
+        margin: 10px 0;
+    }
+
+    .task-name {
+        margin-left: 5px;
+    }
+}
